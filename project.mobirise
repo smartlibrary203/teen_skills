@@ -67,11 +67,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Виртуальная выставка к Всероссийскому дню рыбака",
-        "meta_descr": "Онлайн выставка книг к Всероссийскому дню рыбака",
+        "title": "Всемирный день навыков молодежи",
+        "meta_descr": "Онлайн выставка книг ко Всемирному дню навыков молодежи",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/teenagers-891x588.jpg"
       },
       "components": [
         {
